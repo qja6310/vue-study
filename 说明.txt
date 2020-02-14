@@ -1,3 +1,8 @@
 学习途径
 	视频:https://www.bilibili.com/video/av48858873?p=1
 	文档:https://jspang.com/detailed?id=21#toc21
+安装cnpm
+	npm install -g cnpm --registry=https://registry.npm.taobao.org
+安装npm
+	npm -v
+	npm install --registry=https://registry.npm.taobao.org
